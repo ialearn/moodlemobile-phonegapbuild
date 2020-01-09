@@ -2,19 +2,19 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.moodle.moodlemobile"
+        id        = "com.ialearn.elearning"
         versionCode = "38000"
         android-versionCode = "38001"
         ios-CFBundleVersion = "3.8.0.1"
         version   = "3.8.0">
-    <name>Moodle</name>
+    <name>IntegrityAcademy</name>
 
     <description>
-        Moodle official app
+        Integrity Academy Official app
     </description>
 
-    <author href="http://moodle.com" email="mobile@moodle.com">
-        Moodle Mobile team
+    <author href="http://integrityacademy.co.za" email="info@ialearn.co.za">
+         Integrity Academy Pty Ltd
     </author>
 
     <edit-config target="CFBundleShortVersionString" file="*-Info.plist" mode="merge">
